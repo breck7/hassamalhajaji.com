@@ -1,0 +1,20 @@
+{
+  "name": "hassamalhajaji.com",
+  "version": "1.0.0",
+  "description": "Howdy",
+  "main": "",
+  "scripts": {
+    "test": "./code/test.js",
+    "build": "./code/build.js; scroll list | scroll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassamalhajaji/hassamalhajaji.com.git"
+  },
+  "author": "Hassam Alhajaji et al",
+  "homepage": "https://github.com/hassamalhajaji/hassamalhajaji.com#readme",
+  "dependencies": {
+    "jtree": "^59.1.2",
+    "scroll-cli": "^48.3.0"
+  }
+}

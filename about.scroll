@@ -1,0 +1,7 @@
+import header.scroll
+title About Me
+startColumns 2
+
+* These is my thoughts in color.
+
+import footer.scroll
